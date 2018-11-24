@@ -16,14 +16,18 @@ Icons for your projects.
 * Install via npm: `npm install --save dyicons`
 * Use from jsDelivr CDN: `https://www.jsdelivr.com/package/npm/dyicons`
 
+### Icons
+
+You will find the icons inside the `dist` directory.
+
 ### License
 It's free and released under [MIT License](https://github.com/yusufshakeel/dyIcons/blob/master/LICENSE) Copyright (c) 2018 Yusuf Shakeel
 
-### Back this project
+### Back this project 🙏
 
 Become a [Patron](https://www.patreon.com/yusufshakeel)
 
 ### Donate
-Feeling generous :-) Buy me a cup of tea.
+Feeling generous :-) Buy me a cup of tea ☕.
 
 [Donate via PayPal](https://www.paypal.me/yusufshakeel)
