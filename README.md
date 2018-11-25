@@ -7,7 +7,7 @@ Icons for your projects.
 ### Status
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/dyIcons)
-[![npm version](https://img.shields.io/badge/npm-0.2.0-blue.svg)](https://www.npmjs.com/package/dyicons)
+[![npm version](https://img.shields.io/badge/npm-0.2.2-blue.svg)](https://www.npmjs.com/package/dyicons)
 [![](https://data.jsdelivr.com/v1/package/npm/dyicons/badge)](https://www.jsdelivr.com/package/npm/dyicons)
 
 ### Getting Started
@@ -15,6 +15,10 @@ Icons for your projects.
 * Clone the repo: `git clone https://github.com/yusufshakeel/dyIcons.git`
 * Install via npm: `npm install --save dyicons`
 * Use from jsDelivr CDN: `https://www.jsdelivr.com/package/npm/dyicons`
+
+## Documentation
+
+[https://yusufshakeel.com/project/dyicons](https://yusufshakeel.com/project/dyicons)
 
 ### Icons
 
