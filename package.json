@@ -1,8 +1,8 @@
 {
   "name": "dyicons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Icons for your projects.",
-  "main": "index.js",
+  "main": "dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
