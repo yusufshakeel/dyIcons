@@ -7,7 +7,7 @@ Icons for your projects.
 ### Status
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/dyIcons)
-[![npm version](https://img.shields.io/badge/npm-0.1.3-blue.svg)](https://www.npmjs.com/package/dyIcons)
+[![npm version](https://img.shields.io/badge/npm-0.2.0-blue.svg)](https://www.npmjs.com/package/dyicons)
 [![](https://data.jsdelivr.com/v1/package/npm/dyicons/badge)](https://www.jsdelivr.com/package/npm/dyicons)
 
 ### Getting Started
