@@ -16,6 +16,10 @@ Icons for your projects.
 * Install via npm: `npm install --save dyicons`
 * Use from jsDelivr CDN: `https://www.jsdelivr.com/package/npm/dyicons`
 
+## Documentation
+
+[https://yusufshakeel.com/project/dyicons](https://yusufshakeel.com/project/dyicons)
+
 ### Icons
 
 You will find the icons inside the `dist` directory.
