@@ -32,7 +32,7 @@ You will find the icons inside the `dist` directory.
 ## ES6
 
 ```JavaScript
-import dyIconHeart from 'dyicons/dist/src/dyicon-heart.svg';
+import dyIconHeart from 'dyicons/dist/svg/dyicon-heart.svg';
 ```
 
 ### License
