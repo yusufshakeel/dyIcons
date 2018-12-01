@@ -6,7 +6,7 @@ You get over 200+ icons for FREE!!!
 ### Status
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/dyIcons)
-[![npm version](https://img.shields.io/badge/npm-0.3.1-blue.svg)](https://www.npmjs.com/package/dyicons)
+[![npm version](https://img.shields.io/badge/npm-0.3.5-blue.svg)](https://www.npmjs.com/package/dyicons)
 [![](https://data.jsdelivr.com/v1/package/npm/dyicons/badge)](https://www.jsdelivr.com/package/npm/dyicons)
 
 ### Getting Started
@@ -22,6 +22,18 @@ You get over 200+ icons for FREE!!!
 ### Icons
 
 You will find the icons inside the `dist` directory.
+
+## Using inside ```img``` tag
+
+```HTML
+<img src="path/to/dyIcons/dist/svg/dyicon-heart.svg" alt="heart" />
+```
+
+## ES6
+
+```JavaScript
+import dyIconHeart from 'dyicons/dist/svg/dyicon-heart.svg';
+```
 
 ### License
 It's free and released under [MIT License](https://github.com/yusufshakeel/dyIcons/blob/master/LICENSE) Copyright (c) 2018 Yusuf Shakeel
