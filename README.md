@@ -1,7 +1,7 @@
 # dyIcons
 Icons for your projects.
 
-You get over 200+ icons for FREE!!!
+You get over 250+ icons for FREE!!!
 
 ### Status
 
