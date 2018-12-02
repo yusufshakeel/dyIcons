@@ -1,6 +1,6 @@
 {
   "name": "dyicons",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Icons for your projects.",
   "main": "dist",
   "scripts": {
