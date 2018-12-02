@@ -1,12 +1,12 @@
 # dyIcons
 Icons for your projects.
 
-You get over 200+ icons for FREE!!!
+You get over 250+ icons for FREE!!!
 
 ### Status
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/dyIcons)
-[![npm version](https://img.shields.io/badge/npm-0.3.5-blue.svg)](https://www.npmjs.com/package/dyicons)
+[![npm version](https://img.shields.io/badge/npm-0.3.6-blue.svg)](https://www.npmjs.com/package/dyicons)
 [![](https://data.jsdelivr.com/v1/package/npm/dyicons/badge)](https://www.jsdelivr.com/package/npm/dyicons)
 
 ### Getting Started
@@ -18,6 +18,10 @@ You get over 200+ icons for FREE!!!
 ## Documentation
 
 [https://yusufshakeel.com/project/dyicons](https://yusufshakeel.com/project/dyicons)
+
+## YouTube Playlist
+
+[Watch the videos](https://www.youtube.com/watch?v=yyNNCg1nV_c&list=PLG6ePePp5vvbTLx98CifMDQ5ra2jBKPsX)
 
 ### Icons
 
