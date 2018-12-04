@@ -1,4 +1,4 @@
-![dyIcons](https://raw.githubusercontent.com/yusufshakeel/dyIcons/master/dyIcons.png?v=1)
+![dyIcons](https://raw.githubusercontent.com/yusufshakeel/dyIcons/master/dyIcons.png)
 
 # dyIcons
 Icons for your projects.
