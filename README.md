@@ -1,3 +1,5 @@
+![dyIcons](https://raw.githubusercontent.com/yusufshakeel/dyIcons/master/dyIcons.png?v=1)
+
 # dyIcons
 Icons for your projects.
 
@@ -6,7 +8,7 @@ Icons for your projects.
 ## Status
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/dyIcons)
-[![npm version](https://img.shields.io/badge/npm-0.4.0-blue.svg)](https://www.npmjs.com/package/dyicons)
+[![npm version](https://img.shields.io/badge/npm-0.4.1-blue.svg)](https://www.npmjs.com/package/dyicons)
 [![](https://data.jsdelivr.com/v1/package/npm/dyicons/badge)](https://www.jsdelivr.com/package/npm/dyicons)
 
 ## Getting Started
